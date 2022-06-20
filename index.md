@@ -26,13 +26,13 @@ In support not only of the text book itself but also of the wider (research) com
 
 #### teaching & learning resources
 
-* [PDF slides}(https://github.com/alexanderlerch/ACA-Slides) modularized to match to the textbook structure
-* [LaTeX sources for slides}(https://github.com/alexanderlerch/ACA-Slides) 
+* [PDF slides](https://github.com/alexanderlerch/ACA-Slides) modularized to match to the textbook structure
+* [LaTeX sources for slides](https://github.com/alexanderlerch/ACA-Slides) 
 * [lecture videos](https://www.audiocontentanalysis.org/class) (for the 1st edition)
 
 #### other resources
 
-* list of [datasets](https://www.audiocontentanalysis.org/data-sets) for music and audio tasks
+* list of [datasets](https://www.audiocontentanalysis.org/datasets) for music and audio tasks
 * list of relevant [conference deadlines](http://mir-conferences.audiocontentanalysis.org)
 
 ### about the author
