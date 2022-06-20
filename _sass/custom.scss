@@ -50,10 +50,11 @@ a.active {
   background-color: transparent;
   color: $body-text-color;
   min-height: 600px;
-  padding: 20px 12px;
+  padding: 0em 0em 0em 1em;
   font-size: 0.6rem;
 
   h3 {
+    padding: 0em;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: normal;
