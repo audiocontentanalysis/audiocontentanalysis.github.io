@@ -12,7 +12,7 @@ a.active {
 	  background-color: $header-bg-color;
 	  position: fixed;
 	  top: 0;
-	  width: 100%;
+	  width: #{$medium-breakpoint};
       border-bottom: solid 1px $hr-border-color;
 	}
 
