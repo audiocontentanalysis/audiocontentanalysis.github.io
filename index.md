@@ -22,7 +22,7 @@ In support not only of the text book itself but also of the wider (research) com
 * [Python](https://github.com/alexanderlerch/pyACA) implementations of core algorithms from the book
 * [C++](https://github.com/alexanderlerch/libACA) implementations of core algorithms from the book
 * [Matlab](https://github.com/alexanderlerch/ACA-Code) implementations of core algorithms from the book
-* [Matlab sources to generate all plots in the book}(https://github.com/alexanderlerch/ACA-Plots)
+* [Matlab sources](https://github.com/alexanderlerch/ACA-Plots) to generate all plots in the book
 
 #### teaching & learning resources
 
@@ -37,7 +37,7 @@ In support not only of the text book itself but also of the wider (research) com
 
 ### about the author
 
-<img src="img/lerch.png" alt="photo of alexander lerch" width="200"/>
+<img align="left" src="img/lerch.png" alt="photo of alexander lerch" width="180"/>
 [Alexander Lerch](http://www.alexanderlerch.com) is Associate Professor at the Georgia Institute of Technology, where he works on the [design and implementation of algorithms for audio content analysis and music information retrieval](https://musicinformatics.gatech.edu). Lerch is author of more than 60 peer-reviewed publications on a wide range of topics in audio and music analysis and processing.
 Before he joined the faculty at Georgia Tech, he co-founded the company [zplane.development](https://www.zplane.de), a research-driven company which is a leading provider of advanced music software technology.
 He joined the faculty of the Georgia Tech, where he leads the Music Informatics Group.
