@@ -1,5 +1,8 @@
 title: audio content analysis
 description: music information retrieval tasks and applications
 show_downloads: false
-baseurl: /audiocontentanalysis.org
+
+domain: "mir-conferences.audiocontentanalysis.org"
+baseurl: ""
+
 theme: jekyll-theme-cayman
