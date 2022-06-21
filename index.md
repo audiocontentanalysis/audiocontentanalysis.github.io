@@ -42,6 +42,6 @@ In support not only of the text book itself but also of the wider (research) com
 Before he joined the faculty at Georgia Tech, he co-founded the company [zplane.development](https://www.zplane.de), a research-driven company which is a leading provider of advanced music software technology.
 He joined the faculty of the Georgia Tech, where he leads the Music Informatics Group.
 
-### Support or Contact
+### contact
 
-Having trouble with this web page? Please submit an [issue](https://github.com/alexanderlerch/audiocontentanalysis.org/issues) and we’ll help you sort it out.
+Having trouble with this web page? Please submit an [issue](https://github.com/alexanderlerch/audiocontentanalysis.org/issues) and we’ll sort it out.
