@@ -70,10 +70,9 @@ a.active {
 }
 
 .wrapper {
-  max-width: 1160px;
   margin: 0 auto;
   position: relative;
-  padding: 0 20px;
+  padding: 1rem 1rem;
   min-height: 600px;
 }
 
@@ -91,7 +90,7 @@ a.active {
     margin-right: 0;
     margin-left: 0;
     width: 100%;
-    padding: 0em 0em 0em 2em;
+    padding: 0em 0em 0em 0em;
   }
 }
 
