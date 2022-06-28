@@ -1,8 +1,19 @@
 title: audio content analysis
+tagline: music information retrieval tasks and applications
 description: music information retrieval tasks and applications
 show_downloads: false
 
-domain: "mir-conferences.audiocontentanalysis.org"
+domain: "audiocontentanalysis.org"
 baseurl: ""
+
+author:
+  name: alexander lerch
+  url: http://www.alexanderlerch.com/
+
+social:
+  name: alexander lerch
+  links:
+    - https://www.linkedin.com/in/lerch
+    - https://github.com/alexanderlerch
 
 theme: jekyll-theme-cayman
