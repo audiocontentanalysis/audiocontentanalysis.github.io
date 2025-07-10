@@ -8,7 +8,7 @@ baseurl: ""
 
 author:
   name: alexander lerch
-  url: http://www.alexanderlerch.com/
+  url: https://www.alexanderlerch.com/
 
 social:
   name: alexander lerch
@@ -17,3 +17,13 @@ social:
     - https://github.com/alexanderlerch
 
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
