@@ -5,9 +5,9 @@ navigation_weight: 1
 ---
 
 [comment]: # (## in work)
-The 2nd edition of [An Introduction to Audio Content Analysis](https://ieeexplore.ieee.org/book/9965970) has been released. Similar to the [1st edition](http://ieeexplore.ieee.org/servlet/opac?bknumber=6266785), it introduces standard base-line approaches to a variety of audio analysis and music information retrieval tasks and provides the reader with a multitude of pointers and references if interested. The second edition of the book is restructured, modernized, and expanded and serves as a comprehensive guide on audio content analysis explaining how signal processing and machine learning approaches can be utilized for the extraction of musical content from audio.
+The 2nd edition of [An Introduction to Audio Content Analysis](https://ieeexplore.ieee.org/book/9965970) was released in 2023. Similar to the [1st edition](http://ieeexplore.ieee.org/servlet/opac?bknumber=6266785), it introduces standard base-line approaches to a variety of audio analysis and music information retrieval tasks and provides the reader with a multitude of pointers and references if interested. The second edition of the book is restructured, modernized, and expanded and serves as a comprehensive guide on audio content analysis explaining how signal processing and machine learning approaches can be utilized for the extraction of musical content from audio.
 
-The book itself is accompanied by a range of free [resources](#resources) for learning, teaching, and developing audio analysis systems. 
+The book itself is accompanied by a range of free [resources](#resources) for understanding, teaching, and developing audio analysis systems. 
 
 Sample topics covered in "Introduction to Audio Content Analysis" include:
 
@@ -17,7 +17,7 @@ Sample topics covered in "Introduction to Audio Content Analysis" include:
 * Beat histograms, onset and tempo detection, beat histograms, and detection of structure in music, and sequence alignment
 * Audio fingerprinting, musical genre, mood, and instrument classification
 
-An invaluable guide for newcomers to audio signal processing and industry experts alike, the book covers a wide range of introductory topics pertaining to music information retrieval and machine listening, allowing students and researchers to quickly gain core holistic knowledge in audio analysis and dig deeper into specific aspects of the field with the help of a large amount of references.
+The book covers a wide range of introductory topics and tasks pertaining to music information retrieval and machine listening, allowing students and researchers to quickly gain core holistic knowledge in audio analysis and dig deeper into specific aspects of the field with the help of a large number of references. Unlike many tutorials and other resources, it is built on bottom-up approaches that can be developed from scratch without dependencies in order to facilitate a detailed understanding of concepts, algorithms, and technical challenges.
 
 ### resources
 
