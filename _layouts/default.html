@@ -14,10 +14,11 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
+    {% include nav.html %}
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <p class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
         <a href="https://github.com/alexanderlerch/ACA-Code" class="btn">Matlab</a>
         <a href="https://github.com/alexanderlerch/pyACA" 	 class="btn">Python</a>
         <a href="https://github.com/alexanderlerch/libACA" 	 class="btn">  C++ </a>

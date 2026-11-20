@@ -1,0 +1,9 @@
+<nav class="main-nav" aria-label="main">
+  <ul>
+	{% assign is_home = false %}{% if page.url == '/' or page.url contains 'index' %}{% assign is_home = true %}{% endif %}
+	<li><a href="{{ '/' | relative_url }}"{% if is_home %} class="active" aria-current="page"{% endif %}>home</a></li>
+	<li><a href="{{ '/datasets.html' | relative_url }}"{% if page.url contains 'datasets' %} class="active" aria-current="page"{% endif %}>datasets</a></li>
+	<li><a href="{{ '/class.html' | relative_url }}"{% if page.url contains 'class' %} class="active" aria-current="page"{% endif %}>class</a></li>
+	<li><a href="https://www.audiocontentanalysis.org/conferences">conferences</a></li>
+  </ul>
+</nav>
