@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Video lectures
 description: video lectures for the 1st edition of the book "An Introduction to Audio Content Analysis"
 navigation_weight: 2
 ---
