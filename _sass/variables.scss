@@ -3,14 +3,15 @@ $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
 // Headers
+$brand-blue: #000362 !default;
 $header-heading-color: #fff !default;
-$header-bg-color: #155799 !default;
-$header-bg-color-secondary: #155799 !default;
+$header-bg-color: $brand-blue !default;
+$header-bg-color-secondary: $brand-blue !default;
 
 // Text
-$section-headings-color: #155799 !default;
+$section-headings-color: $brand-blue !default;
 $body-text-color: #202c51 !default;
-$body-link-color: #1e6bb8 !default;
+$body-link-color: $brand-blue !default;
 $blockquote-text-color: #617279 !default;
 
 // Code
